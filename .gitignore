@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+cefr_readings.csv
+cefrj-vocabulary-profile-1.5.csv
+octanove-vocabulary-profile-c1c2-1.0.csv
+preprocessing_nlp.py
+cleaning_nlp.py
+__pycache__
